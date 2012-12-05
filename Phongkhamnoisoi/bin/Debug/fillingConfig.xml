@@ -1,0 +1,13 @@
+<xml>
+  <author>VinhNT_gands@yahoo.com</author>
+  <fillingconfig>
+    <tolerance>30</tolerance> 
+    <fillcolor>#FFFFFF</fillcolor>
+    <fillPoints>
+      <point>10, 10</point>
+      <point>-10, 10</point>
+      <point>10, -10</point>
+      <point>-10, -10</point>
+    </fillPoints> 		
+  </fillingconfig>
+</xml>
